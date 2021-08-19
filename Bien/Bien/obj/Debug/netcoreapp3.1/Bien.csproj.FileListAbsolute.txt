@@ -1,0 +1,14 @@
+E:\Github\Hoc_C_Shap_Tu_Dau\Bien\Bien\bin\Debug\netcoreapp3.1\Bien.exe
+E:\Github\Hoc_C_Shap_Tu_Dau\Bien\Bien\bin\Debug\netcoreapp3.1\Bien.deps.json
+E:\Github\Hoc_C_Shap_Tu_Dau\Bien\Bien\bin\Debug\netcoreapp3.1\Bien.runtimeconfig.json
+E:\Github\Hoc_C_Shap_Tu_Dau\Bien\Bien\bin\Debug\netcoreapp3.1\Bien.runtimeconfig.dev.json
+E:\Github\Hoc_C_Shap_Tu_Dau\Bien\Bien\bin\Debug\netcoreapp3.1\Bien.dll
+E:\Github\Hoc_C_Shap_Tu_Dau\Bien\Bien\bin\Debug\netcoreapp3.1\Bien.pdb
+E:\Github\Hoc_C_Shap_Tu_Dau\Bien\Bien\obj\Debug\netcoreapp3.1\Bien.csproj.AssemblyReference.cache
+E:\Github\Hoc_C_Shap_Tu_Dau\Bien\Bien\obj\Debug\netcoreapp3.1\Bien.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\Hoc_C_Shap_Tu_Dau\Bien\Bien\obj\Debug\netcoreapp3.1\Bien.AssemblyInfoInputs.cache
+E:\Github\Hoc_C_Shap_Tu_Dau\Bien\Bien\obj\Debug\netcoreapp3.1\Bien.AssemblyInfo.cs
+E:\Github\Hoc_C_Shap_Tu_Dau\Bien\Bien\obj\Debug\netcoreapp3.1\Bien.csproj.CoreCompileInputs.cache
+E:\Github\Hoc_C_Shap_Tu_Dau\Bien\Bien\obj\Debug\netcoreapp3.1\Bien.dll
+E:\Github\Hoc_C_Shap_Tu_Dau\Bien\Bien\obj\Debug\netcoreapp3.1\Bien.pdb
+E:\Github\Hoc_C_Shap_Tu_Dau\Bien\Bien\obj\Debug\netcoreapp3.1\Bien.genruntimeconfig.cache
