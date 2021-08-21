@@ -1,0 +1,14 @@
+E:\Github\Hoc_C_Shap_Tu_Dau\KieuDuLieuCuaCShap\KieuDuLieuCuaCShap\obj\Debug\netcoreapp3.1\KieuDuLieuCuaCShap.csproj.AssemblyReference.cache
+E:\Github\Hoc_C_Shap_Tu_Dau\KieuDuLieuCuaCShap\KieuDuLieuCuaCShap\obj\Debug\netcoreapp3.1\KieuDuLieuCuaCShap.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\Hoc_C_Shap_Tu_Dau\KieuDuLieuCuaCShap\KieuDuLieuCuaCShap\obj\Debug\netcoreapp3.1\KieuDuLieuCuaCShap.AssemblyInfoInputs.cache
+E:\Github\Hoc_C_Shap_Tu_Dau\KieuDuLieuCuaCShap\KieuDuLieuCuaCShap\obj\Debug\netcoreapp3.1\KieuDuLieuCuaCShap.AssemblyInfo.cs
+E:\Github\Hoc_C_Shap_Tu_Dau\KieuDuLieuCuaCShap\KieuDuLieuCuaCShap\obj\Debug\netcoreapp3.1\KieuDuLieuCuaCShap.csproj.CoreCompileInputs.cache
+E:\Github\Hoc_C_Shap_Tu_Dau\KieuDuLieuCuaCShap\KieuDuLieuCuaCShap\bin\Debug\netcoreapp3.1\KieuDuLieuCuaCShap.exe
+E:\Github\Hoc_C_Shap_Tu_Dau\KieuDuLieuCuaCShap\KieuDuLieuCuaCShap\bin\Debug\netcoreapp3.1\KieuDuLieuCuaCShap.deps.json
+E:\Github\Hoc_C_Shap_Tu_Dau\KieuDuLieuCuaCShap\KieuDuLieuCuaCShap\bin\Debug\netcoreapp3.1\KieuDuLieuCuaCShap.runtimeconfig.json
+E:\Github\Hoc_C_Shap_Tu_Dau\KieuDuLieuCuaCShap\KieuDuLieuCuaCShap\bin\Debug\netcoreapp3.1\KieuDuLieuCuaCShap.runtimeconfig.dev.json
+E:\Github\Hoc_C_Shap_Tu_Dau\KieuDuLieuCuaCShap\KieuDuLieuCuaCShap\bin\Debug\netcoreapp3.1\KieuDuLieuCuaCShap.dll
+E:\Github\Hoc_C_Shap_Tu_Dau\KieuDuLieuCuaCShap\KieuDuLieuCuaCShap\bin\Debug\netcoreapp3.1\KieuDuLieuCuaCShap.pdb
+E:\Github\Hoc_C_Shap_Tu_Dau\KieuDuLieuCuaCShap\KieuDuLieuCuaCShap\obj\Debug\netcoreapp3.1\KieuDuLieuCuaCShap.dll
+E:\Github\Hoc_C_Shap_Tu_Dau\KieuDuLieuCuaCShap\KieuDuLieuCuaCShap\obj\Debug\netcoreapp3.1\KieuDuLieuCuaCShap.pdb
+E:\Github\Hoc_C_Shap_Tu_Dau\KieuDuLieuCuaCShap\KieuDuLieuCuaCShap\obj\Debug\netcoreapp3.1\KieuDuLieuCuaCShap.genruntimeconfig.cache
