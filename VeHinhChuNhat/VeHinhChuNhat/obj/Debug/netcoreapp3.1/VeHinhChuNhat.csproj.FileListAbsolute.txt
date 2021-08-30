@@ -1,0 +1,14 @@
+E:\Github\Hoc_C_Shap_Tu_Dau\VeHinhChuNhat\VeHinhChuNhat\bin\Debug\netcoreapp3.1\VeHinhChuNhat.exe
+E:\Github\Hoc_C_Shap_Tu_Dau\VeHinhChuNhat\VeHinhChuNhat\bin\Debug\netcoreapp3.1\VeHinhChuNhat.deps.json
+E:\Github\Hoc_C_Shap_Tu_Dau\VeHinhChuNhat\VeHinhChuNhat\bin\Debug\netcoreapp3.1\VeHinhChuNhat.runtimeconfig.json
+E:\Github\Hoc_C_Shap_Tu_Dau\VeHinhChuNhat\VeHinhChuNhat\bin\Debug\netcoreapp3.1\VeHinhChuNhat.runtimeconfig.dev.json
+E:\Github\Hoc_C_Shap_Tu_Dau\VeHinhChuNhat\VeHinhChuNhat\bin\Debug\netcoreapp3.1\VeHinhChuNhat.dll
+E:\Github\Hoc_C_Shap_Tu_Dau\VeHinhChuNhat\VeHinhChuNhat\bin\Debug\netcoreapp3.1\VeHinhChuNhat.pdb
+E:\Github\Hoc_C_Shap_Tu_Dau\VeHinhChuNhat\VeHinhChuNhat\obj\Debug\netcoreapp3.1\VeHinhChuNhat.csproj.AssemblyReference.cache
+E:\Github\Hoc_C_Shap_Tu_Dau\VeHinhChuNhat\VeHinhChuNhat\obj\Debug\netcoreapp3.1\VeHinhChuNhat.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\Hoc_C_Shap_Tu_Dau\VeHinhChuNhat\VeHinhChuNhat\obj\Debug\netcoreapp3.1\VeHinhChuNhat.AssemblyInfoInputs.cache
+E:\Github\Hoc_C_Shap_Tu_Dau\VeHinhChuNhat\VeHinhChuNhat\obj\Debug\netcoreapp3.1\VeHinhChuNhat.AssemblyInfo.cs
+E:\Github\Hoc_C_Shap_Tu_Dau\VeHinhChuNhat\VeHinhChuNhat\obj\Debug\netcoreapp3.1\VeHinhChuNhat.csproj.CoreCompileInputs.cache
+E:\Github\Hoc_C_Shap_Tu_Dau\VeHinhChuNhat\VeHinhChuNhat\obj\Debug\netcoreapp3.1\VeHinhChuNhat.dll
+E:\Github\Hoc_C_Shap_Tu_Dau\VeHinhChuNhat\VeHinhChuNhat\obj\Debug\netcoreapp3.1\VeHinhChuNhat.pdb
+E:\Github\Hoc_C_Shap_Tu_Dau\VeHinhChuNhat\VeHinhChuNhat\obj\Debug\netcoreapp3.1\VeHinhChuNhat.genruntimeconfig.cache
